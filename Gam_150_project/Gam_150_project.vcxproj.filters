@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="animation.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss1.cpp">
+      <Filter>enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss2.cpp">
+      <Filter>enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="character.cpp">
+      <Filter>character</Filter>
+    </ClCompile>
+    <ClCompile Include="direct_attack.cpp">
+      <Filter>character</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>character</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>character</Filter>
+    </ClCompile>
+    <ClCompile Include="map.cpp">
+      <Filter>maps</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Obstruct.cpp">
+      <Filter>maps</Filter>
+    </ClCompile>
+    <ClCompile Include="portal.cpp">
+      <Filter>maps</Filter>
+    </ClCompile>
+    <ClCompile Include="sprite.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="texture.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="vec2.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="weapon.cpp">
+      <Filter>character</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss3.cpp">
+      <Filter>enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss4.cpp">
+      <Filter>enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="button.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundEffect.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="animation.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss1.h">
+      <Filter>enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss2.h">
+      <Filter>enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="character.h">
+      <Filter>character</Filter>
+    </ClInclude>
+    <ClInclude Include="direct_attack.h">
+      <Filter>character</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>character</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>character</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemTable.h">
+      <Filter>character</Filter>
+    </ClInclude>
+    <ClInclude Include="map.h">
+      <Filter>maps</Filter>
+    </ClInclude>
+    <ClInclude Include="matrix.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Obstruct.h">
+      <Filter>maps</Filter>
+    </ClInclude>
+    <ClInclude Include="portal.h">
+      <Filter>maps</Filter>
+    </ClInclude>
+    <ClInclude Include="sprite.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="texture.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="vec2.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="weapon.h">
+      <Filter>character</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss3.h">
+      <Filter>enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss4.h">
+      <Filter>enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="button.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundEffect.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="character">
+      <UniqueIdentifier>{212eb8cd-87b1-45eb-bbb4-89148fb07987}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="maps">
+      <UniqueIdentifier>{0568851a-65aa-4239-82b7-f25cdf775767}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="enemy">
+      <UniqueIdentifier>{9d11fe73-d392-46c9-b72c-2db44508213e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="engine">
+      <UniqueIdentifier>{3ae13107-e4c1-4141-83f1-a281f0c5e9aa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

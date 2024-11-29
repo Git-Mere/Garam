@@ -1,0 +1,4 @@
+Assets/Boss3/fireball.png
+FrameSize 30 30
+NumFrames 4
+Anim Assets/Boss3/fire.anm

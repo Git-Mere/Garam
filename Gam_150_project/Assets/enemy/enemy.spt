@@ -1,0 +1,10 @@
+Assets/enemy/all.png
+FrameSize 75 75
+NumFrames 20
+Anim Assets/enemy/donggul.anm
+Anim Assets/enemy/forest.anm
+Anim Assets/enemy/volcano.anm
+Anim Assets/enemy/template.anm
+
+
+

@@ -1,0 +1,6 @@
+Assets/Boss1/boss1.png
+FrameSize 200 260
+Frame 1800 0
+Frame 2000 0
+Frame 2400 0
+Anim Assets/Boss1/Dash.anm

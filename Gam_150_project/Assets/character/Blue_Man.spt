@@ -1,0 +1,11 @@
+Assets/character/blue_man2.png
+FrameSize 40 62
+NumFrames 15
+Anim Assets/character/Idle.anm
+Anim Assets/character/Jumping.anm
+Anim Assets/character/Running.anm
+Anim Assets/character/Dash.anm
+Anim Assets/character/da.anm
+Anim Assets/character/Stun.anm
+
+

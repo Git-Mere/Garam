@@ -1,0 +1,8 @@
+Assets/Boss1/boss1.png
+FrameSize 200 260
+Frame 0 0
+Frame 1000 0
+Frame 1200 0
+Frame 1400 0
+Frame 1600 0
+Anim Assets/Boss1/da.anm

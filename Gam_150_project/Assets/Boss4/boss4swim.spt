@@ -1,0 +1,11 @@
+Assets/Boss4/wyrm3.png
+FrameSize 400 200
+Frame 0 0
+Frame 400 0
+Frame 800 0
+Frame 1200 0
+Frame 1600 0
+Frame 2000 0
+Frame 2400 0
+Anim Assets/Boss4/Idle.anm
+Anim Assets/Boss4/swim.anm

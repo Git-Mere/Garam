@@ -1,0 +1,5 @@
+Assets/Boss3/magic1.png
+FrameSize 50 500
+NumFrames 3
+Anim Assets/Boss3/magic.anm
+Anim Assets/Boss3/magic_Idle.anm

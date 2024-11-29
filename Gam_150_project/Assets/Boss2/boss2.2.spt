@@ -1,0 +1,8 @@
+Assets/Boss2/boss2.2.png
+FrameSize 150 180
+NumFrames 6
+Anim Assets/Boss2/idle.anm
+Anim Assets/Boss2/back_attack.anm
+Anim Assets/Boss2/throw_energy.anm
+Anim Assets/Boss2/fall_attack.anm
+Anim Assets/Boss2/back_attack2.anm

@@ -1,0 +1,8 @@
+Assets/character/weapon.png
+FrameSize 75 75
+Frame 0 0
+Frame 75 0
+Frame 150 0
+Frame 225 0
+Anim Assets/character/cane_to_charm.anm
+Anim Assets/character/charm_to_cane.anm

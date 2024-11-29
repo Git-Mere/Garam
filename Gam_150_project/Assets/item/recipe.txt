@@ -1,0 +1,2 @@
+wooden -> stick
+buff_herb + persimmon or buff_herb -> buff_potion

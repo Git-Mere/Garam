@@ -1,0 +1,7 @@
+Assets/Boss3/magician.png
+FrameSize 150 205
+NumFrames 5
+Anim Assets/Boss3/Idle.anm
+Anim Assets/Boss3/fire_pattern.anm
+Anim Assets/Boss3/magic_pattern.anm
+Anim Assets/Boss3/teleport_pattern.anm
